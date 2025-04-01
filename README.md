@@ -30,3 +30,4 @@ The **Weather App** is a web-based application that provides real-time weather u
 - 📍 Save favorite locations for quick access.
 
 🤝 Contributing
+- Contributions are welcome! Feel free to fork the repository and submit a pull request.
